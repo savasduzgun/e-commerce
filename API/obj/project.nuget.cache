@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "VLd5MBnYudg=",
+  "success": true,
+  "projectFilePath": "E:\\YAZILIM\\PROJELER\\savasduzgun\\e-commerce\\API\\API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Savaş\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.0\\microsoft.aspnetcore.openapi.9.0.0.nupkg.sha512",
+    "C:\\Users\\Savaş\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
